@@ -54,4 +54,4 @@ Trabalho realizado por:
 
 Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes.
 
-[⬆ Voltar ao topo](#-gerenciamento-de-restaurante)<br>
+[⬆ Voltar ao topo](#%EF%B8%8F-gerenciamento-de-restaurante)<br>
