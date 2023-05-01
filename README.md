@@ -1,21 +1,25 @@
 # 🍽️🪑 Gerenciamento de Restaurante
 
-[Tecnologias usadas]
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+## ℹ Tabela de Conteúdos
+- [Descrição do Projeto](#dart-projeto-da-cadeira-de-banco-de-dados-20221)
+- [Especificações](#-especificações-do-projeto)
+- [Contribuidores](#man_technologist-contribuidores)
 
 ## :dart: Projeto da cadeira de Banco de Dados 2022.1
 
-[Descrição breve do projeto]
-
-
-[Imagem do projeto]
-<!-- <img src="imagens-README/visual-jogo/gabrielmpinha-github-io-1024x768desktop-7646be.jpg" alt="imagem do jogo da forca"> -->
-
-[Descrição da imagem]
-<!-- > Um jogo de Browser com a temática de jogo da forca. Trabalho predominantemente funcional feito em Kotlin, juntamente com um tradutor para Java Script. -->
+**Contexto:** Gerenciamento de alocação de mesas de restaurantes e pedidos. </br>
+**Problema:** Falta de controle sobre a disponibilidade de lugares dentro do espaço de atendimento e esperas longas para receber os pedidos. </br>
 
 ## 📃 Especificações do Projeto
 
-[Diagramas, requisitos, esquemas, etc]
+Especificações incluem:
+- Diagrama de Objetivos
+- Diagrama Entidade Relacionamento
+- Modelo Relacional
+
+Visualize as especificações do projeto: [Especificações Gerenciamento de Restaurante](especificacoes)
 
 ## :man_technologist: Contribuidores
 
